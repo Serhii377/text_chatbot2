@@ -1,0 +1,6 @@
+torch
+transformers
+accelerate
+ddgs
+requests
+beautifulsoup4
